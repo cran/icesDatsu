@@ -1,8 +1,8 @@
-40e32f62a905ea684373f28d8d99678c *DESCRIPTION
-1d699492507f8c42742d018643347d0d *NAMESPACE
-344243a5575a9b641811fa7e31fc43e6 *NEWS.md
+9b58ff6f400f18d252a71028e7b406bc *DESCRIPTION
+5e92e4195fa53c1409132f47195efe55 *NAMESPACE
+c5e5080cbc6771a76b0e023d834ac5f7 *NEWS.md
 249f4386650ff53438f9080389aba7a3 *R/datsu_api.R
-21c857688656ed4d4f709de49820a31f *R/getDataFieldsDescription.R
+f62ad3b034abdf4fd43fb9e432876700 *R/getDataFieldsDescription.R
 7f026edc141f1cd8cefe9c14f5b41641 *R/getDataverIDs.R
 6ac21da238b66facdde3d78e5b007702 *R/getListQCChecks.R
 536c28d3e6b27cb01d8d458be22a30bd *R/getMySessionsList.R
@@ -10,7 +10,9 @@
 29714f00b29b8b62d3be28b8ae3a1353 *R/getScreeningSessionDetails.R
 cfd48b245861871ca589afb56abd9ffd *R/getScreeningSessionMessages.R
 df66a7251ed5a1fa7f5610bd7634edc5 *R/getScreeningSessionsList.R
-cd00cc1cabefc0e2a5424cf2b9b7dd98 *R/httpUtils.R
+71b22fb29eea9e53ec577c52253dd955 *R/httpUtils.R
+c970c6d890e3acd6d21e0215173d58e7 *R/onLoad.R
+dd1eccc522296323917c8ae34b64dbfd *R/uploadDatsuFile.R
 d9a99d2fcaea963e28f860f71c430420 *R/uploadDatsuFileFireAndForget.R
 ab227ed47866c2e662117c0987587d3f *inst/test_files/vms_test.csv
 5a80f1b67275d1d41ab0ba2b25591424 *man/datsu_api.Rd
@@ -22,4 +24,5 @@ e89d6954411d1f1588be8991b93eabe8 *man/getListQCChecks.Rd
 d91e20152a9a3e564924f4a944d93432 *man/getScreeningSessionDetails.Rd
 8419cddbb1d79a017aaea09bb591d1eb *man/getScreeningSessionMessages.Rd
 05e3af7904accd10f87b6acc590e3bb7 *man/getScreeningSessionsList.Rd
+78a41e9fe0bc2126d369a299772561a7 *man/uploadDatsuFile.Rd
 aa92ee399e4f05b70cd3cfdda7614aee *man/uploadDatsuFileFireAndForget.Rd
